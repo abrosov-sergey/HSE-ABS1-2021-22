@@ -1,0 +1,12 @@
+Filled container:
+Container contains 10 elements.
+0: type = 0, name = flower, func_result = 6.000000000
+1: number = 123, name = tree, func_result = 4.000000000
+2: type = 0, name = shrub, func_result = 5.000000000
+3: type = 0, name = flower, func_result = 6.000000000
+4: type = 0, name = flower, func_result = 6.000000000
+5: type = 0, name = flower, func_result = 6.000000000
+6: number = 123, name = tree, func_result = 4.000000000
+7: number = 123, name = tree, func_result = 4.000000000
+8: type = 0, name = flower, func_result = 6.000000000
+9: type = 0, name = shrub, func_result = 5.000000000
